@@ -1,0 +1,5 @@
+https://github.com/Uberi/speech_recognition - библиотека для распознавания 
+https://github.com/snakers4/open_stt/#links - корпус для распознавания
+https://github.com/SergeyShk/Speech-to-Text-Russian - проект от коллеги Кати про распознавание речи 
+
+https://github.com/bambocher/pocketsphinx-python - покетсфинкс
