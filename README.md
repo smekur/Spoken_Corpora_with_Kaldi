@@ -23,7 +23,7 @@
 | Предобработка корпуса 2 для обучения языковой модели на основе марковских цепей (токенизация, лемматизация, чистка корпуса) | Катя | Done |
 | Сбор статистики по тренировочному корпусу 1 | Настя | Done |
 | Сбор статистики по тренировочному корпусу 2 | Катя | Done |
-| Создание вспомогательных словарей ([список вводных слов и частотных дискурсивных маркеров](https://github.com/smekur/Spoken_Corpora_with_Kaldi/blob/master/mistakes_search/dictionaries_txt/parenthesis_rus.txt), список частотных слов с дефисом) | Настя | Done |
+| Создание вспомогательных словарей ([список вводных слов и частотных дискурсивных маркеров](https://github.com/smekur/Spoken_Corpora_with_Kaldi/blob/master/mistakes_search/dictionaries_txt/parenthesis_rus.txt), [список частотных слов с дефисом](https://github.com/smekur/Spoken_Corpora_with_Kaldi/blob/master/mistakes_search/dictionaries_txt/words_with_hyphen.txt)) | Настя | Done |
 | Обучение [языковой модели](https://github.com/smekur/Spoken_Corpora_with_Kaldi/tree/master/mistakes_search/language_models) на основе марковских цепей на корпусе 1, корпусе 2 | Настя, Катя | Done |
 | Объявление функций для предобработки тестового корпуса | Катя, Настя | Done |
 | Объявление функций для нахождения и исправления ошибок в транскрибациях | Катя | Done |
